@@ -69,14 +69,7 @@ An [OpenClaw](https://github.com/openclaw/openclaw) / [Claude Code](https://gith
 
 ## Installation
 
-Useful setup links:
-
-- [Open Seedance 2.0 on EvoLink](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=seedance2-video-gen-skill-for-openclaw)
-- [Go to Seedance 2.0 API docs and examples](https://github.com/EvoLinkAI/Seedance-2.0-Gateway-Service)
-- [Get your EvoLink API key](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=seedance2-video-gen-skill-for-openclaw)
-- [Browse Seedance 2.0 prompt examples](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts)
-
-### Quick Install (OpenClaw)
+### OpenClaw Install
 
 ```bash
 openclaw skills add https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw
